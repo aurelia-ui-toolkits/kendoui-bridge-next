@@ -20,7 +20,7 @@ This image suggests that the first task in the currently only project **[Definit
 
 Note that this first task is shown in the **In progress** column .since it is quite obvious that it has already started :smile:. Also note that is labelled as **`Definition`** to indicate that it contains the "metadata" - it is not a part of the information that lists all issues, but rather documents how to create such information
 
-With this said, we need to discuss  the **[definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** and to agree on its definition and subsequent use. This should be done via comments to this first task.
+This introduction continues the discussion of the **[definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** and the agreement on its definition and subsequent use. This should be done via comments to this first task.
 
 
 
