@@ -8,7 +8,15 @@ This repository should be viewed as the container of all issues we plan to ident
 
 ### Organization
 
-A ___sequential list of issues___ is hardly the best structure to present complex information in the best readable form. So, we are proposing to use the associated project and its **["kanban" board view](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** as the principal method used to understand this proposal and make subsequent actions needed to implement it.
+A ___sequential list of issues___ is hardly the best structure to present complex information in the best readable form. So, we are proposing to use the associated project and its **["kanban" board view](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** as the principal method used to understand this proposal and make subsequent actions needed to implement it (see Image 1 below):
+
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/2712405/29006782-87e2e3ac-7ac4-11e7-80d0-a4d72ada7f2c.png"></img>
+ <br><br>
+ Image 1
+</p>
+
+This image suggests that the first task in the currently only project **[Definition and management of issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** is **[Definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** 
 
 With this said, the very first task in this project is to create the **[definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** and to agree on its definition and subsequent use. 
 
