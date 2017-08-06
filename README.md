@@ -16,7 +16,7 @@ A ___sequential list of issues___ is hardly the best structure to present comple
  Image 1
 </p>
 
-This image suggests that the first task in the currently only project **[Definition and management of issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** is **[Definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** 
+This image suggests that the first task in the currently only project **[Definition and management of issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** (***red marker 1***) is the task **[Definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** (***red marker 2***)
 
 With this said, the very first task in this project is to create the **[definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** and to agree on its definition and subsequent use. 
 
