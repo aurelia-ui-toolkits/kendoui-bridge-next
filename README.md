@@ -8,7 +8,7 @@ This repository should be viewed as the container of all issues we plan to ident
 
 ### Organization
 
-A ___sequential list of issues___ is hardly the best structure to present complex information in the best readable form. So, we are proposing to use the associated project and its "kanban" boards view as the principal method used to understand this proposal and make subsequent actions needed to implement it.
+A ___sequential list of issues___ is hardly the best structure to present complex information in the best readable form. So, we are proposing to use the associated project and its **["kanban" boards view](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** as the principal method used to understand this proposal and make subsequent actions needed to implement it.
 
 
 
