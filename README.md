@@ -18,9 +18,9 @@ A ___sequential list of issues___ is hardly the best structure to present comple
 
 This image suggests that the first task in the (currently only) project **[Definition and management of issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** (***red marker 1***) is the task **[Definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** (***red marker 2***)
 
-Note that this first task is shown in the **In progress** column .since it is quite obvious that it has already started :smile:. Also note that is labelled as **`Definition`** to indicate that it contains the "metadata" - it is not a part of the information that lists all issues, but rather documents how to create such information
+Note that this first task is shown in the **In progress** column to indicate that the **Telerik team should start there** :smile:. Also note that is labelled as **`Definition`** to indicate that it contains the "metadata" - it is not a part of the information that lists all issues, but rather documents how to create such information.
 
-This introduction continues the discussion of the **[definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** and the agreement on its definition and subsequent use. This should be done via comments to this first task.
+This introduction, as stated in the paragraph above continues with the **[definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)**. We should reach the agreement on its definition and subsequent use, before anything else - and it should be done via comments to this first task.
 
 
 
