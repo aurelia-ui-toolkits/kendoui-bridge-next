@@ -11,12 +11,12 @@ This repository should be viewed as the container of all issues we plan to ident
 A ___sequential list of issues___ is hardly the best structure to present complex information in the best readable form. So, we are proposing to use the associated project and its **["kanban" board view](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** as the principal method used to understand this proposal and make subsequent actions needed to implement it (see Image 1 below):
 
 <p align=center>
-  <img src="https://user-images.githubusercontent.com/2712405/29006782-87e2e3ac-7ac4-11e7-80d0-a4d72ada7f2c.png"></img>
+  <img src="https://user-images.githubusercontent.com/2712405/29029122-8f509126-7b54-11e7-96b4-31db0d93720d.png"></img>
  <br><br>
  Image 1
 </p>
 
-This image suggests that the first task in the currently only project **[Definition and management of issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** (***red marker 1***) is the task **[Definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** (***red marker 2***)
+This image suggests that the first task in the (currently only) project **[Definition and management of issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** (***red marker 1***) is the task **[Definition of the process used to collect all issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/issues/1)** (***red marker 2***)
 
 Note that this first task is shown in the **In progress** column .since it is quite obvious that it has already started :smile:. Also note that is labelled as **`Definition`** to indicate that it contains the "metadata" - it is not a part of the information that lists all issues, but rather documents how to create such information
 
