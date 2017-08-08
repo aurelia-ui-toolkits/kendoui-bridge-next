@@ -24,17 +24,21 @@ This introduction, as stated in the paragraph above continues with the **[defini
 
 ### Summary
 
-We are proposing to use the GitHub based project **[Definition and management of issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** as the primary interface for all subsequent tasks that are grouped in four ***ordered*** categories **`Backlog`**, **`In progress`**, **`Done`** and **`Ready for implementation`**. This process will flow as follows:
+We are proposing to use the GitHub based project **[Definition and management of issues](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/2)** as the primary interface for all subsequent tasks that are grouped in four ***ordered*** categories **`Backlog`**, **`In progress`**, **`Done`** and **`Ready for implementation`**:
+
+<p align=center>
+  <img src="https://user-images.githubusercontent.com/2712405/29054014-6c90661c-7bc1-11e7-8640-4cd029721dae.png"></img>
+ <br><br>
+</p>
+
+This process will flow as follows:
 
 1. Aurelia-UI-Toolkits team will continue filling the **`Backlog`** category until we run out of entries.
 2. Telerik team will move entries (one by one) to **`In progress category`** and star the discussion on that issues until it gets resolved by fiat from both teams. At that time it is labelled as resolved and moved to the **`Done`** category
 3. Once all of the items reside in the **`Done`** category, we will move all issues from that category to the **`Backlog`** category of the **[Implementation](https://github.com/aurelia-ui-toolkits/kendoui-bridge-next/projects/3)** project.
 
 
-<p align=center>
-  <img src="https://user-images.githubusercontent.com/2712405/29054014-6c90661c-7bc1-11e7-8640-4cd029721dae.png"></img>
- <br><br>
-</p>
+
 
 
 
